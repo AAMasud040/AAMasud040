@@ -1,5 +1,7 @@
 ### Hi there, I'm [Abdullah Al Masud](https://aamasud040.github.io) 
 
+I am currently working as Research Engineer with the Faculty of Science and Engineering at [Green University of Bangladesh](https://www.green.edu.bd) (June 2024 - Ongoing) currently working with optimization of Retrieval Augmented Generation (RAG) models. Moreover, I have initiated and currently directing the [Green University Mars Rover Team](https://www.facebook.com/gubmrt) under Artificual Intelligence and Robotics Applications Lab (AIRA Lab).
+
 I am a graduate student in Computer Science and Engineering (CSE) at  [United International University](https://cse.uiu.ac.bd/), Bangladesh. I have served as the Software and Autonomous Team Lead of the [UIU Mars Rover team](https://robotics.uiu.ac.bd/uiumarsrover/). My journey in the world of technology has been defined by my unwavering passion for Robotics. In addition to Robotics and Machine Learning, I also have a interest in software development.
 
 **My Reseach Interest**:
