@@ -9,6 +9,7 @@ I am a graduate student in Computer Science and Engineering (CSE) at  [United In
 - Deep-Learning
 - Meta-Learning
 - Computer Vision
+- Retrieval Augmented Generation (RAG)
 
 <!--## Featured Projects and Repositories:
 <a href="https://github.com/akibzaman/Xpert">
